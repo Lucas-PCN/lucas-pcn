@@ -1,7 +1,7 @@
 <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hello, world! :earth_americas: </h1>
 
 ### About me
-<a href="https://www.linkedin.com/in/lucas-pereira-castanheira-nascimento-238355190/" target="_blank"><img width="130px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucas-pereira-castanheira/" target="_blank"><img width="130px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 * :technologist: I'm full stack web development student at [TRYBE](https://www.betrybe.com/).
 * :brazil: I'm from Uberlândia, MG - Brazil and I'm currently living in Campina Grande, PB - Brazil.
 * :atom: I am an extroverted, communicative person who likes challenges and solving problems.
