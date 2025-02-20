@@ -119,4 +119,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-pcn&layout=compact&theme=dark" />
 </div>
 
-![Snake animation](https://github.com/gabrielpondaco/gabrielpondaco/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/lucas-PCN/lucas-PCN/blob/output/github-snake.svg)
